@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    padding-top: 40px;
+    padding-bottom: 84px;
+}
+
+.top_content {
+    margin-top: 84px;
+    margin-bottom: 161.3px;
+}
+
+.Title {
+    margin-bottom: 17px;
+}
+
+.top_info_text {
+    margin-bottom: 37px;
+}
+
+.top_buttons {
+    margin-bottom: 103px;
+}
+
+.top_logos {
+    padding-top: 97px;
+    padding-bottom: 96px;
+}
